@@ -1,2 +1,3 @@
 # hello-world
-For learnin'z
+
+Hullo, hoo-manz. Dis place is for da learnin'z. 
